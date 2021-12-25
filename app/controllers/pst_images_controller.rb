@@ -1,0 +1,2 @@
+class PstImagesController < ApplicationController
+end
